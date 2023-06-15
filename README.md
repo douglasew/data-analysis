@@ -14,3 +14,9 @@ Para rodar esse projeto, você vai precisar adicionar os arquivos csv na pasta .
 
 - José Leonardo
 - Douglas Ewerton
+
+## Screenshots
+
+![Airflow screenshot](https://cdn.discordapp.com/attachments/331545069423165440/1118973491262267392/Imagem_do_WhatsApp_de_2023-06-15_as_07.21.28.jpg)
+
+![Airflow screenshot](https://cdn.discordapp.com/attachments/331545069423165440/1118973518365868112/Imagem_do_WhatsApp_de_2023-06-15_as_07.21.29.jpg)
